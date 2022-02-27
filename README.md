@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagofreitas-002&show_icons=true&theme=algolia "/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofreitas-002&layout=compact&theme=algolia "/>
-</div>
-
 <!--
 **thiagofreitas-002/thiagofreitas-002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
