@@ -11,6 +11,7 @@
 4. CSS
 5. JS
 6. PHP
+7. React
 
 ### No momento sei:
 
