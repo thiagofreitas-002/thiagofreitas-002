@@ -20,8 +20,6 @@
 4. Básico de Hardware
 5. Básico de Redes de computadores
 
-### Tô aceitando mentores ksksksksks
-
 <!--
 **thiagofreitas-002/thiagofreitas-002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
