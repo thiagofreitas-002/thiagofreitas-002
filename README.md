@@ -25,7 +25,7 @@
 </p>
 
 <p align="right">
-  Caso queira me contactar acesse: ⤵️
+  📩 Caso queira me contactar acesse: ⤵️
 </p>
 
 <p align="right">
