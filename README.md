@@ -25,7 +25,7 @@
 </p>
 
 <p align="right">
-  💭 Conhecimento: Astro, TRPC, Graphql, Prisma, Better Auth, Tauri.
+  💭 Conhecimento: <strong>Astro</strong>, <strong>Storybook</strong>, TRPC, Graphql, Prisma, Better Auth, Tauri.
 </p>
 
 <p align="right">
