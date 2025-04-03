@@ -17,7 +17,7 @@
 </p>
 
 <p align="right">
-  🦄 Linguagens: Typescript, Javascript, HTML, CSS, SASS.
+  🦄 Linguagens: <strong>Typescript</strong>, Javascript, HTML, CSS, <strong>SASS</strong>.
 </p>
 
 <p align="right">
