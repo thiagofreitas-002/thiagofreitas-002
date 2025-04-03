@@ -57,7 +57,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Front-end Developer** \
 [**Onecommerce**](https://onecommerce.es/) • Contrato - 1 Ano e 8 Meses \
 Linguagens & Tecnologias: `Typescript`, `Javascript`, `React`, `Vue`, `CSS`, `SCSS`, `Quasar`, `Wordpress`, `Magento` \
-Projetos em destaque: [Master Regale](https://www.master-regale.de/), [Lin3s](https://lin3s.com/), [Floranet]()]
+Projetos em destaque: [Master Regale](https://www.master-regale.de/), [Lin3s](https://lin3s.com/), [Floranet]()
 
 <br/>
 
