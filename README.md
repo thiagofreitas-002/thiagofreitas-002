@@ -21,7 +21,7 @@
 </p>
 
 <p align="right">
-  💼 Ferramentas: <strong>Nextjs</strong>, <strong>React</strong>, React Native, Vue, <strong>Prettier</strong>, <strong>Eslint</strong>, <strong>Stylelint</strong>, Tanstack Query, Axios, <strong>React Hook Form</strong>, <strong>Zod</strong>, Yup, <strong>Tailwind</strong>, <strong>Redux Toolkit</strong>, Redux Toolkit Query, <strong>Emotion</strong>, <strong>Styled Components</strong>, <strong>Mui Material</strong>.
+  💼 Ferramentas: <strong>Nextjs</strong>, <strong>React</strong>, React Native, Vue, <strong>Prettier</strong>, <strong>Eslint</strong>, <strong>Stylelint</strong>, Tanstack Query, Axios, <strong>React Hook Form</strong>, <strong>Zod</strong>, Yup, <strong>Tailwind</strong>, <strong>Redux Toolkit</strong>, Zustand, Redux Toolkit Query, <strong>Emotion</strong>, <strong>Styled Components</strong>, <strong>Mui Material</strong>.
 </p>
 
 <p align="right">
