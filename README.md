@@ -7,14 +7,47 @@
 <p>Trabalhando na Avanz Tecnologia<br/> Eu sou desenvolvedor Front-end</p>
 
 <br/>
+<br/>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="left">
+
+<p align="right"> 
+  Meu nome é Thiago Freitas e sou <strong>Desenvolvedor Front-end</strong>.<br/> 
+  Atualmente, estou trabalhando na <strong>Avanz Tecnologia</strong>, onde me dedico a criar interfaces de usuário intuitivas e atraentes.
+</p>
+
+<p align="right">
+  🦄 Linguagens: Typescript, Javascript.
+</p>
+
+<p align="right">
+  💼 Ferramentas: Npm, Bun, Node, Deno, VsCode
+</p>
+
+<p align="right">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
+
+<p align="right">
+  <a href="mailto:thiagofreitas2909@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/thiago-f-122a26220/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="https://wa.me/5585997564932" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+</p>
+
+<br/>
+<br/>
+<br/>
 
 ### Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-<br/>
-
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://files.catbox.moe/8f7b74.svg"/>](https://www.avanz.com.br/)
+
+<br/>
 
 **Front-end Developer** \
 [**Onecommerce**](https://onecommerce.es/) • Contrato - 1 Ano e 8 Meses \
@@ -34,10 +67,6 @@ Projetos em destaque: [Senai/CE](https://senai-ce.org.br/), [Sesi/CE](https://ww
 
 ### Estatísticas do GitHub
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagofreitas-002&theme=dark&hide_border=false" alt="Github Stats">
-
-## Conecte-se Comigo
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-f-122a26220/)
 
 ---
 
