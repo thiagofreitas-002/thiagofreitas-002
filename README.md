@@ -17,11 +17,11 @@
 </p>
 
 <p align="right">
-  🦄 Linguagens: Typescript, Javascript.
+  🦄 Linguagens: Typescript, Javascript, HTML, CSS, SASS.
 </p>
 
 <p align="right">
-  💼 Ferramentas: React, React native, Vue.
+  💼 Ferramentas: Nextjs, React, React Native, Vue, Prettier, Eslint, Tanstack Query, React Hook Form, Zod.
 </p>
 
 <p align="right">
