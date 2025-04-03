@@ -25,7 +25,7 @@
 </p>
 
 <p align="right">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  Caso queira me contactar acesse: ⤵️
 </p>
 
 <p align="right">
