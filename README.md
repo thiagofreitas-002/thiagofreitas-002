@@ -12,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="left">
 
 <p align="right"> 
-  Meu nome é Thiago Freitas e sou <strong>Desenvolvedor Front-end</strong>.<br/> 
+  Meu nome é Thiago e sou <strong>Desenvolvedor Front-end</strong>.<br/> 
   Atualmente, estou trabalhando na <strong>Avanz Tecnologia</strong>, onde me dedico a criar interfaces de usuário intuitivas e atraentes.
 </p>
 
