@@ -21,7 +21,11 @@
 </p>
 
 <p align="right">
-  💼 Ferramentas: Nextjs, React, React Native, Vue, Prettier, Eslint, Tanstack Query, React Hook Form, Zod.
+  💼 Ferramentas: Nextjs, React, React Native, Vue, Prettier, Eslint, Stylelint, Tanstack Query, React Hook Form, Zod, Yup, Tailwind, Redux Toolkit, Redux Toolkit Query, Emotion, Styled Components, Mui Material.
+</p>
+
+<p align="right">
+  💭 Conhecimento: Astro, TRPC, Graphql.
 </p>
 
 <p align="right">
