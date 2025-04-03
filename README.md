@@ -21,7 +21,7 @@
 </p>
 
 <p align="right">
-  💼 Ferramentas: Npm, Bun, Node, Deno, VsCode
+  💼 Ferramentas: React, React native, Vue.
 </p>
 
 <p align="right">
