@@ -39,7 +39,8 @@
 
 <br/>
 <br/>
-<br/>
+
+---
 
 ### Experiência de trabalho
 
@@ -63,7 +64,7 @@ Projetos em destaque: [Master Regale](https://www.master-regale.de/), [Lin3s](ht
 Linguagens & Tecnologias: `Typescript`, `Javascript`, `React`, `React Native`, `Vue`, `Wordpress`, `CSS`, `SCSS`, `Gulp`, `Drupal`\
 Projetos em destaque: [Senai/CE](https://senai-ce.org.br/), [Sesi/CE](https://www.sesi-ce.org.br/), [Nosso Mundo](https://web.nossomundoapp.com.br/), [Next Cargo](https://www.nextcargo.app/)
 
-<br/>
+---
 
 ### Estatísticas do GitHub
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagofreitas-002&theme=dark&hide_border=false" alt="Github Stats">
