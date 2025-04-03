@@ -65,7 +65,7 @@ Projetos em destaque: [Master Regale](https://www.master-regale.de/), [Lin3s](ht
 
 **Front-end Developer - Atual** \
 [**Avanz Tecnologia**](https://www.avanz.com.br/) • Contrato \
-Linguagens & Tecnologias: `Typescript`, `Javascript`, `React`, `React Native`, `Vue`, `Wordpress`, `CSS`, `SCSS`, `Gulp`, `Drupal`\
+Linguagens & Tecnologias: `Typescript`, `Javascript`, `React`, `React Native`, `Vue`, `Wordpress`, `CSS`, `SCSS`, `Drupal`\
 Projetos em destaque: [Senai/CE](https://senai-ce.org.br/), [Sesi/CE](https://www.sesi-ce.org.br/), [Nosso Mundo](https://web.nossomundoapp.com.br/), [Next Cargo](https://www.nextcargo.app/)
 
 ---
