@@ -21,11 +21,11 @@
 </p>
 
 <p align="right">
-  💼 Ferramentas: <strong>Nextjs</strong>, <strong>React</strong>, React Native, Vue, <strong>Prettier</strong>, <strong>Eslint</strong>, <strong>Stylelint</strong>, <strong>Tanstack Query</strong>, Axios, <strong>React Hook Form</strong>, <strong>Zod</strong>, Yup, <strong>Tailwind</strong>, <strong>Redux Toolkit</strong>, Zustand, Redux Toolkit Query, <strong>Emotion</strong>, <strong>Styled Components</strong>, <strong>Mui Material</strong>.
+  💼 Ferramentas: <strong>Nextjs</strong>, <strong>React</strong>, React Native, Vue, <strong>Prettier</strong>, <strong>Eslint</strong>, <strong>Stylelint</strong>, <strong>Tanstack Query</strong>, Axios, <strong>React Hook Form</strong>, <strong>Zod</strong>, Yup, <strong>Tailwind</strong>, <strong>Redux Toolkit</strong>, Zustand, Redux Toolkit Query, <strong>Emotion</strong>, <strong>Styled Components</strong>, <strong>Mui Material</strong>, <strong>Mantine</strong>.
 </p>
 
 <p align="right">
-  💭 Conhecimento: <strong>Astro</strong>, <strong>Storybook</strong>, TRPC, Graphql, Prisma, Better Auth, Tauri.
+  💭 Conhecimento: <strong>Astro</strong>, <strong>Storybook</strong>, <strong>Arquitetura monorepo com Turborepo e bundling de packages com Rollup</strong>, TRPC, Graphql, Prisma, Better Auth, Tauri.
 </p>
 
 <p align="right">
